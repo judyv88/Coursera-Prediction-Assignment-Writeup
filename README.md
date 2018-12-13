@@ -1,0 +1,1 @@
+# Coursera-Prediction-Assignment-Writeup
